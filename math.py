@@ -15,3 +15,5 @@ def divide(x,y):
     if(y==0):
         return Divide_by_0_error
     return x/y
+def square(x):
+    return x*x
